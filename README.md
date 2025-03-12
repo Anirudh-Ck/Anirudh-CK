@@ -6,7 +6,7 @@
 
 ## 🎯 What I Do  
 - Build scalable, high-performance web applications. 
-- Develop with React.js, Next.js, Laravel, Tailwind CSS, and Redux Toolkit.
+- Develop with **React.js, Next.js, Laravel, Tailwind CSS,** and **Redux Toolkit**.
 - Optimize **performance and UI/UX** for a seamless experience.  
 
 ---
