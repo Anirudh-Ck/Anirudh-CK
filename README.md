@@ -2,7 +2,6 @@
 
 🚀 **Software Developer** passionate about building intuitive and high-performance web applications. I love crafting seamless user experiences with **React.js, Next.js, JavaScript, and Laravel**, transforming ideas into digital solutions. Constantly exploring new technologies, I thrive on solving challenges and pushing the boundaries of web development.  
 
----
 
 ## 🎯 What I Do  
 - Build scalable, high-performance web applications. 
@@ -12,9 +11,9 @@
 ---
 
 ## 💡 Tech Stack  
-🔹 **Frontend:** React.js, Redux Toolkit, Tailwind CSS  
-🔹 **Backend:** Laravel, RESTful APIs  
-🔹 **Tools:** Git, Postman, VS Code, Figma  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 
