@@ -40,8 +40,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
 [![Email](https://img.shields.io/badge/Email-DC4E41?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ckanirudh99@gmail.com)  
 
----
-
 💡 **Building the future, one line of code at a time!** 🚀  
 
 
