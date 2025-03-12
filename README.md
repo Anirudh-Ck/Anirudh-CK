@@ -1,30 +1,27 @@
 # 👋 Hi, I'm Anirudh CK  
 
-### 🚀 About Me  
-I'm a **dynamic software developer** with **2 years of experience** in building high-performance web applications. Passionate about **React.js, JavaScript, and TypeScript**, I specialize in crafting scalable, optimized, and user-friendly digital solutions. I thrive in agile environments and enjoy collaborating with cross-functional teams to deliver innovative applications.  
+🚀 **Software Developer** passionate about building intuitive and high-performance web applications. I love crafting seamless user experiences with **React.js, JavaScript, and Laravel**, transforming ideas into digital solutions. Constantly exploring new technologies, I thrive on solving challenges and pushing the boundaries of web development.  
 
 ---
 
-## 🛠️ Technical Stack  
-
-### **💻 Languages & Frameworks**  
-- **Languages:** JavaScript (ES6+), TypeScript, SQL, Java   
-- **Frontend:** React.js, Redux, Redux Toolkit, Tailwind CSS, Bootstrap, Framer Motion  
-- **Backend:** Laravel, RESTful APIs  
-
-### **☁️ Backend & Cloud**  
-- Docker, Kubernetes, AWS  
-
-### **🛠️ Tools & Technologies**  
-- Git, GitHub, Postman, npm, Yarn, VS Code, Figma  
+## 🎯 What I Do  
+- Develop **scalable and user-friendly** applications.  
+- Work with **React.js, Laravel, Tailwind CSS, and Redux Toolkit**.  
+- Optimize **performance and UI/UX** for a seamless experience.  
 
 ---
 
-## 📫 Let's Connect!  
+## 💡 Tech Stack  
+🔹 **Frontend:** React.js, Redux Toolkit, Tailwind CSS  
+🔹 **Backend:** Laravel, RESTful APIs  
+🔹 **Tools:** Git, Postman, VS Code, Figma  
+
+---
+
+## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
 [![Email](https://img.shields.io/badge/Email-DC4E41?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ckanirudh99@gmail.com)  
 
 ---
 
-🔥 **Let's build amazing things together!** 🚀  
-
+💡 **Building the future, one line of code at a time!** 🚀  
