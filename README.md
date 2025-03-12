@@ -8,7 +8,7 @@ I'm a **dynamic software developer** with **2 years of experience** in building 
 ## 🛠️ Technical Stack  
 
 ### **💻 Languages & Frameworks**  
-- **Languages:** JavaScript (ES6+), TypeScript, SQL, Java  
+- **Languages:** JavaScript (ES6+), TypeScript, SQL, Java   
 - **Frontend:** React.js, Redux, Redux Toolkit, Tailwind CSS, Bootstrap, Framer Motion  
 - **Backend:** Laravel, RESTful APIs  
 
