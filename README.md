@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Anirudh CK  
 
-🚀 **Software Developer** passionate about building intuitive and high-performance web applications. I love crafting seamless user experiences with **React.js, JavaScript, and Laravel**, transforming ideas into digital solutions. Constantly exploring new technologies, I thrive on solving challenges and pushing the boundaries of web development.  
+🚀 **Software Developer** passionate about building intuitive and high-performance web applications. I love crafting seamless user experiences with **React.js, Next.js, JavaScript, and Laravel**, transforming ideas into digital solutions. Constantly exploring new technologies, I thrive on solving challenges and pushing the boundaries of web development.  
 
 ---
 
 ## 🎯 What I Do  
-- Develop **scalable and user-friendly** applications.  
-- Work with **React.js, Laravel, Tailwind CSS, and Redux Toolkit**.  
+- Build scalable, high-performance web applications. 
+- Develop with React.js, Next.js, Laravel, Tailwind CSS, and Redux Toolkit.
 - Optimize **performance and UI/UX** for a seamless experience.  
 
 ---
